@@ -15,12 +15,11 @@ jobs:
 
     - name: Calculate and update age
       run: |
-        BIRTH_DATE="1990-01-01" # Remplace par ta date de naissance
+        BIRTH_DATE="2003-11-03"
         CURRENT_YEAR=$(date +%Y)
         BIRTH_YEAR=$(date -d $BIRTH_DATE +%Y)
         AGE=$((CURRENT_YEAR - BIRTH_YEAR))
 
-        # Remplace {{AGE}} dans le README.md
         sed -i "s/{{AGE}}/$AGE/" README.md
 
     - name: Commit and push changes
