@@ -1,73 +1,52 @@
-<h1>Mes statistiques </h1>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SachaG3&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SachaG3&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+# Salut, moi c'est Sacha Guignard 👋
 
-###
+Je suis un développeur web passionné de {{AGE}} ans, actuellement étudiant en License STS. Depuis mon plus jeune âge, l'informatique me fascine, et j'ai choisi cette voie pour approfondir mes connaissances et compétences dans ce domaine captivant.
 
-###
-<h1>Mes compéténces </h1>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://static-00.iconduck.com/assets.00/laravel-icon-497x512-uwybstke.png" height="40" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" height="40" alt="woocommerce logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" height="40" alt="ssh logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="40" alt="composer logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" alt="debian logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-</div>
+## À propos de moi
 
-<h1>Mes IDE</h1>
+- 🌱 Actuellement en train d'apprendre : Développement backend avancé et optimisation des systèmes en production  
+- 💼 En poste en tant que : Développeur fullstack chez Grinto  
+- 📫 Me contacter : contact@sachaguignard.fr  
+- ⚡ Fun fact : J'adore personnaliser mes accessoires tech et explorer les nouvelles tendances en design !
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" height="40" alt="phpstorm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" alt="apple logo"  />
-</div>
+## 🚀 Projets
 
-###
-<h1>Mes réseaux </h1>
+Voici quelques projets sur lesquels je travaille actuellement ou auxquels j'ai contribué :
 
-<div align="left">
-  <a href="www.linkedin.com/in/sacha-guignard-a5b741232" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="soyer" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-</div>
+### [Gîte de la Chouette](https://sachaguignard.fr)
+Un site web réalisé pour un gîte à Maisons avec WordPress.  
+- **Technologies :** WordPress, Divi  
+- **Fonctionnalités :** Présentation du gîte, galerie photos, formulaire de contact  
 
-###
+### [Portfolio](https://sachaguignard.fr)
+Mon portfolio réalisé comme projet, avec une interface admin totalement développée par moi-même.  
+- **Technologies :** HTML, CSS, PHP, Laravel, SQL  
+- **Fonctionnalités :** Présentation de mon parcours, de mes compétences et de mes projets  
+
+### [Emploi du temps](https://sts-dev.fr)
+Un site réalisé dans le cadre du premier semestre en licence pour afficher l'emploi du temps, car aucun autre moyen n'était disponible, hormis un PDF.  
+- **Technologies :** HTML, CSS, JavaScript, Laravel  
+- **Fonctionnalités :** Affichage dynamique de l'emploi du temps et ergonomie simplifiée  
+
+### [NormanBet](https://sachaguignard.fr)
+Un site conçu en cours pour simuler un site de paris pour les JO 2024.  
+- **Technologies :** Spring Java, Bootstrap  
+- **Fonctionnalités :** Système de paris, gestion des utilisateurs, affichage des événements sportifs  
+
+## 🛠️ Compétences
+
+- **Langages :** HTML, CSS, PHP, Python, Java
+- **Frameworks :** Spring, Laravel, Django,
+- **Outils :** WordPress, Git, Docker  
+
+## 📈 Statistiques GitHub
+
+![Statistiques GitHub de Sacha](https://github-readme-stats.vercel.app/api?username=SachaG3&show_icons=true&theme=radical)
+
+## 📫 Me retrouver
+
+- **LinkedIn :** [linkedin.com/in/sacha-guignard-a5b741232](www.linkedin.com/in/sacha-guignard-a5b741232)  
+- **Portfolio :** [sachaguignard.fr](https://sachaguignard.fr)  
+- **Email :** contact@sachaguignard.fr  
+
+Merci d'avoir visité mon profil ! N'hésitez pas à explorer mes dépôts et à me contacter si vous avez des questions ou des idées de collaboration.
