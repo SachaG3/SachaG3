@@ -41,7 +41,7 @@ Un site conçu en cours pour simuler un site de paris pour les JO 2024.
 
 ## 📈 Statistiques GitHub
 
-![Statistiques GitHub de Sacha](https://github-readme-stats.vercel.app/api?username=SachaG3&show_icons=true&theme=radical)
+![Statistiques GitHub de Sacha](https://www.firstprod.sachaguignard.fr/github)
 
 ## 📫 Me retrouver
 
