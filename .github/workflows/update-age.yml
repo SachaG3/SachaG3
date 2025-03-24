@@ -2,7 +2,7 @@ name: Update Age
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 3 * *"
   workflow_dispatch:
 
 permissions:
@@ -20,9 +20,15 @@ jobs:
     - name: Calculate and update age
       run: |
         BIRTH_DATE="2003-11-03"
-        CURRENT_YEAR=$(date +%Y)
-        BIRTH_YEAR=$(date -d $BIRTH_DATE +%Y)
-        AGE=$((CURRENT_YEAR - BIRTH_YEAR))
+        CURRENT_DATE=$(date +%Y-%m-%d)
+        
+        # Calcul de l'âge en années
+        AGE=$(date -d "$CURRENT_DATE" +%Y) - $(date -d "$BIRTH_DATE" +%Y)
+        
+        # Si l'anniversaire n'est pas encore passé cette année, on soustrait 1
+        if [ "$(date -d "$CURRENT_DATE" +%m%d)" -lt "$(date -d "$BIRTH_DATE" +%m%d)" ]; then
+          AGE=$((AGE - 1))
+        fi
         
         if [ ! -f README.md ]; then
           echo "README.md not found"
