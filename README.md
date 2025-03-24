@@ -1,6 +1,6 @@
 # Salut, moi c'est Sacha Guignard 👋
 
-Je suis un développeur web passionné de {{AGE}} ans, actuellement étudiant en License STS. Depuis mon plus jeune âge, l'informatique me fascine, et j'ai choisi cette voie pour approfondir mes connaissances et compétences dans ce domaine captivant.
+Je suis un développeur web passionné de 20 ans, actuellement étudiant en License STS. Depuis mon plus jeune âge, l'informatique me fascine, et j'ai choisi cette voie pour approfondir mes connaissances et compétences dans ce domaine captivant.
 
 ## À propos de moi
 
