@@ -41,7 +41,7 @@ Un site conçu en cours pour simuler un site de paris pour les JO 2024.
 
 ## 📈 Statistiques GitHub
 
-![Statistiques GitHub de Sacha](https://www.firstprod.sachaguignard.fr/github)
+![Statistiques GitHub de Sacha](https://www.sachaguignard.fr/github)
 
 ## 📫 Me retrouver
 
