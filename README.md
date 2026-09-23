@@ -1,52 +1,117 @@
-# Salut, moi c'est Sacha Guignard 👋
+# Sacha Guignard
 
-Je suis un développeur web passionné de 21 ans, actuellement étudiant en License STS. Depuis mon plus jeune âge, l'informatique me fascine, et j'ai choisi cette voie pour approfondir mes connaissances et compétences dans ce domaine captivant.
+**Développeur full-stack** — applications web, backend, self-hosting et automatisation.
 
-## À propos de moi
+Je construis principalement des applications avec **TypeScript / Next.js**, **Java / Spring**, **Rust** et **Docker**, avec une attention particulière portée à l'architecture backend, la sécurité, les tests et la mise en production.
 
-- 🌱 Actuellement en train d'apprendre : Développement backend avancé et optimisation des systèmes en production  
-- 💼 En poste en tant que : Développeur fullstack chez Grinto  
-- 📫 Me contacter : contact@sachaguignard.fr  
-- ⚡ Fun fact : J'adore personnaliser mes accessoires tech et explorer les nouvelles tendances en design !
+- 💼 Développeur full-stack chez **Grinto**
+- 🎓 Licence STS — Sécurité des réseaux & cybersécurité
+- 🐳 Intérêt marqué pour le **self-hosting**, Docker et l'exploitation
+- 🔐 Authentification, isolation des données, APIs, CI/CD et sécurité applicative
+- 📫 **contact@sachaguignard.fr**
+- 🌐 [sachaguignard.fr](https://sachaguignard.fr)
 
-## 🚀 Projets
+---
 
-Voici quelques projets sur lesquels je travaille actuellement ou auxquels j'ai contribué :
+## Projets récents
 
-### [Gîte de la Chouette](https://sachaguignard.fr)
-Un site web réalisé pour un gîte à Maisons avec WordPress.  
-- **Technologies :** WordPress, Divi  
-- **Fonctionnalités :** Présentation du gîte, galerie photos, formulaire de contact  
+### [Liens](https://github.com/SachaG3/liens)
+Carnet relationnel privé et auto-hébergeable, conçu pour garder le contrôle de ses données.
 
-### [Portfolio](https://sachaguignard.fr)
-Mon portfolio réalisé comme projet, avec une interface admin totalement développée par moi-même.  
-- **Technologies :** HTML, CSS, PHP, Laravel, SQL  
-- **Fonctionnalités :** Présentation de mon parcours, de mes compétences et de mes projets  
+**Next.js 16 · TypeScript · Prisma · SQLite · Docker · Vitest · Playwright**
 
-### [Emploi du temps](https://sts-dev.fr)
-Un site réalisé dans le cadre du premier semestre en licence pour afficher l'emploi du temps, car aucun autre moyen n'était disponible, hormis un PDF.  
-- **Technologies :** HTML, CSS, JavaScript, Laravel  
-- **Fonctionnalités :** Affichage dynamique de l'emploi du temps et ergonomie simplifiée  
+- gestion multi-utilisateur avec isolation des données ;
+- sessions serveur, mots de passe bcrypt et rate limiting ;
+- contacts, relations, arbre familial, rappels, journal et finances ;
+- notifications e-mail, Discord, Signal et ntfy ;
+- intégration Immich ;
+- migrations, sauvegarde/restauration et healthchecks ;
+- CI avec lint, tests unitaires, build et tests E2E.
 
-### [NormanBet](https://sachaguignard.fr)
-Un site conçu en cours pour simuler un site de paris pour les JO 2024.  
-- **Technologies :** Spring Java, Bootstrap  
-- **Fonctionnalités :** Système de paris, gestion des utilisateurs, affichage des événements sportifs  
+---
 
-## 🛠️ Compétences
+### [Cron Master](https://github.com/SachaG3/cron-master)
+Plateforme self-hosted pour créer, exécuter et superviser des jobs planifiés.
 
-- **Langages :** HTML, CSS, PHP, Python, Java
-- **Frameworks :** Spring, Laravel, Django,
-- **Outils :** WordPress, Git, Docker  
+**TypeScript · Node.js · Next.js · PostgreSQL · Docker**
 
-## 📈 Statistiques GitHub
+- jobs planifiés, checks HTTP/TCP et dead-man switches ;
+- workflows visuels, conditions et webhooks ;
+- API publique versionnée avec tokens scopés ;
+- credentials chiffrés et webhooks HMAC ;
+- gestion d'incidents, déduplication et escalade ;
+- notifications multi-canaux ;
+- CI/CD, images GHCR, déploiement SSH et smoke tests Docker.
 
-![Statistiques GitHub de Sacha](https://www.sachaguignard.fr/github)
+---
 
-## 📫 Me retrouver
+### [Catch-all](https://github.com/SachaG3/Catch-all)
+Écosystème local-first pour générer et gérer des alias e-mail catch-all.
 
-- **LinkedIn :** [linkedin.com/in/sacha-guignard-a5b741232](www.linkedin.com/in/sacha-guignard-a5b741232)  
-- **Portfolio :** [sachaguignard.fr](https://sachaguignard.fr)  
-- **Email :** contact@sachaguignard.fr  
+**Swift / SwiftUI · Bun · Hono · Svelte · PostgreSQL · Docker**
 
-Merci d'avoir visité mon profil ! N'hésitez pas à explorer mes dépôts et à me contacter si vous avez des questions ou des idées de collaboration.
+- extension Chrome/Chromium Manifest V3 ;
+- application iOS avec clavier personnalisé ;
+- Hub API + dashboard web ;
+- fonctionnement hors ligne côté clients ;
+- protocole de synchronisation commun entre les applications.
+
+---
+
+### [Fourchette](https://github.com/SachaG3/camionpizza)
+Prototype mobile-first de commande pour un camion à pizzas.
+
+**Next.js · TypeScript · SQLite · Zod · Playwright**
+
+- catalogue, configurateur, panier et créneaux de retrait ;
+- comptes facultatifs, historique et fidélité ;
+- sessions sécurisées et mots de passe avec scrypt ;
+- outbox SQLite pour les e-mails transactionnels avec retries ;
+- interface d'administration opérationnelle ;
+- PWA, accessibilité et tests E2E.
+
+---
+
+### [SoyerBOT — Rust](https://github.com/SachaG3/rustbot)
+Réécriture en Rust d'un bot Discord initialement développé en Python.
+
+**Rust · Serenity · Tokio · SQLx · MySQL**
+
+- architecture asynchrone ;
+- connexions SQL poolées ;
+- commandes, profils et mini-jeux ;
+- logique communautaire et système de collection.
+
+---
+
+### [DailyLama](https://github.com/SachaG3/DailyLama)
+Bot Discord JavaScript avec persistance MySQL et système de collection quotidien.
+
+**JavaScript · Discord.js · MySQL**
+
+- commandes et événements structurés ;
+- collection, statistiques et personnalisation ;
+- rattrapage automatique ;
+- tests automatisés.
+
+---
+
+## Stack
+
+**Backend**  
+TypeScript · Node.js · Java · Spring Boot · Rust · PHP · Laravel
+
+**Frontend**  
+Next.js · React · HTML · CSS · Tailwind CSS · SwiftUI
+
+**Data & infrastructure**  
+PostgreSQL · MySQL · SQLite · Prisma · Docker · Linux · GitHub Actions
+
+**Qualité & sécurité**  
+Vitest · Playwright · CI/CD · OAuth / sessions · validation · rate limiting · isolation des données
+
+---
+
+## Liens
+
+[Portfolio](https://sachaguignard.fr) · [LinkedIn](https://www.linkedin.com/in/sacha-guignard-a5b741232) · [Email](mailto:contact@sachaguignard.fr)
