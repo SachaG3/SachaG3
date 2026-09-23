@@ -112,6 +112,12 @@ Vitest · Playwright · CI/CD · OAuth / sessions · validation · rate limiting
 
 ---
 
+## Activité GitHub
+
+![Statistiques GitHub de Sacha](https://www.sachaguignard.fr/github)
+
+---
+
 ## Liens
 
 [Portfolio](https://sachaguignard.fr) · [LinkedIn](https://www.linkedin.com/in/sacha-guignard-a5b741232) · [Email](mailto:contact@sachaguignard.fr)
