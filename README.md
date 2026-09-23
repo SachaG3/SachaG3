@@ -4,7 +4,7 @@
 
 Je construis principalement des applications avec **TypeScript / Next.js**, **Java / Spring**, **Rust** et **Docker**, avec une attention particulière portée à l'architecture backend, la sécurité, les tests et la mise en production.
 
-- 💼 Développeur full-stack chez **Grinto**
+- 💼 Développeur full-stack chez **Suivi Qualité**
 - 🎓 Licence STS — Sécurité des réseaux & cybersécurité
 - 🐳 Intérêt marqué pour le **self-hosting**, Docker et l'exploitation
 - 🔐 Authentification, isolation des données, APIs, CI/CD et sécurité applicative
