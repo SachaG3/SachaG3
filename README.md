@@ -8,7 +8,6 @@ Je construis principalement des applications avec **TypeScript / Next.js**, **Ja
 - 🎓 Licence STS — Sécurité des réseaux & cybersécurité
 - 🐳 Intérêt marqué pour le **self-hosting**, Docker et l'exploitation
 - 🔐 Authentification, isolation des données, APIs, CI/CD et sécurité applicative
-- 📫 **contact@sachaguignard.fr**
 - 🌐 [sachaguignard.fr](https://sachaguignard.fr)
 
 ---
